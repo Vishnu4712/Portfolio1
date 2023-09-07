@@ -1,0 +1,37 @@
+html{
+    background-color: black;
+}
+
+h1{
+    font-family: 'Lugrasimo', cursive;
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+}
+
+p{
+    font-family: 'Lugrasimo', cursive;
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+#div1{
+    width: 50%;
+    margin-left: 25%;
+}
+
+#div2{
+    background-color:rgb(45, 135, 52);
+}
+
+#div3{
+    background-color:brown;
+}
